@@ -1,10 +1,14 @@
 ﻿# 8051 Microcontroller Programming Run on Edsim-51
 #### Cumulative Project:
-1. Cooperative - create Bootstrap, Thread functions
-2. Preemptive - add Timer
-3. Semaphores - add Assembly Languages
-4. Starvation Issues - 2 Producer and 1 Consumer
-5. Parking - 2 Slot 5 Cars Scheduler using Timer and Semaphores (***Final Project***)
+1. **Cooperative** - create Bootstrap, Thread functions
+2. **Preemptive** - using *Timer Interupt*
+3. **Semaphores** - add few *Assembly Languages* to help
+4. **Solve Starvation** - *2 Producer* and *1 Consumer* Starvation Issues
+5. **Parking** - *2 Slot* and *5 Cars* Scheduler using Timer and Semaphores (***Final Project***)
+
+Print readable log text when and where cars get in and get out from the parking lot. 
+
+SDCC ver 4.0.0 #11528 (Linux)
 
 # Operating Systems
 `2022 Fall` `Prof. 周百祥(Chou, Pai-Hsiang)` `C-lib: 8051.h` `Assembly Language` 
