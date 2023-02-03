@@ -6,7 +6,7 @@
 4. Starvation Issues - 2 Producer and 1 Consumer
 5. Parking - 2 Slot 5 Cars Scheduler using Timer and Semaphores (***Final Project***)
 
-# Introduction to Programming (II)
+# Operating Systems
 `2022 Fall` `Prof. 周百祥(Chou, Pai-Hsiang)` `C-lib: 8051.h` `Assembly Language` 
 
 This course covers fundamental concepts in operating systems for computers, including multiprogramming, interrupt, processes, kernel, parallelism, critical sections, deadlocks, communication, multiprocessing, multilevel memory management, binding, name management, file systems, protection, resource allocation, scheduling. Experience with concurrent programming, synchronization mechanisms, interprocess communication.
